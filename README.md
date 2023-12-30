@@ -4,8 +4,8 @@
 
 ## 💻 DEV's blog 💻
 <div style="display:flex; flex-direction:row;">
-<h4>Tstory</h2>
-
+<p>$\rm{TISTORY \ BLOG }$</p>
+  
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=tinylittlelife&theme=default)](https://tinylittlelife.tistory.com/)
 </div><br>
 
