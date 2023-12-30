@@ -8,7 +8,8 @@
 
 ![StarsinLiver's github stats](https://github-readme-stats.vercel.app/api?username=StarsinLiver&show_icons=true)
 [![StarsinLiver's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StarsinLiver&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/StarsinLiver)
-
+###
+[![trophy](https://github-profile-trophy.vercel.app/?username=StarsinLiver&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
   <!--
 **StarsinLiver/StarsinLiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
