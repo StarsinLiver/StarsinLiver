@@ -3,7 +3,7 @@
 
 
 ## 💻 DEV's blog 💻
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:row; margin-top: 20;">
 <h4>Tstory</h2>
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=tinylittlelife&theme=default)](https://tinylittlelife.tistory.com/)
