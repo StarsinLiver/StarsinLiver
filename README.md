@@ -3,15 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Stars+in+Liver's+GitHub!👋)](https://git.io/typing-svg)
 
 ###
-
-###
-
-- 스텟 관리창
-
 ![StarsinLiver's github stats](https://github-readme-stats.vercel.app/api?username=StarsinLiver&show_icons=true)
+###
 [![StarsinLiver's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StarsinLiver&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/StarsinLiver)
 ###
-- 트로피 관리창
 [![trophy](https://github-profile-trophy.vercel.app/?username=StarsinLiver&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
