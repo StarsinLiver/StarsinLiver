@@ -1,4 +1,4 @@
-<p>$\rm{welcome\ to \ my \ github}$</p>
+<h1>$\rm{welcome\ to \ my \ github}$</h1>
 
 ##
 ## 💻 DEV's blog 💻
