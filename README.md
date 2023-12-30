@@ -1,23 +1,6 @@
 ### ✨ 안녕하세요
 
 ###
-        <div id="banner-content" className="row clearfix  wow fadeIn">
-          <div className="col-38">
-            <div className="section-heading">
-              <h1>Backend-Developer</h1>
-              <h2 style={{ lineHeight: "30px" }}>
-                안녕하세요. <br />
-                저는 백엔드 개발자를 지향하는 이산하라고 합니다. <br />
-              </h2>
-            </div>
-
-            {/* <!--Call to Action--> */}
-            <a href="#content" className="button">
-              View profile
-            </a>
-            {/* <!--End Call to Action--> */}
-          </div>
-        </div>
 
 ###
 
