@@ -5,13 +5,9 @@
 ###
 [![Stars in Liver's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarsinLiver&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/StarsinLiver/github-readme-stats)
 
-## 💻 DEV's log 💻
+## 💻 DEV's blog 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://tinylittlelife.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-
-<h4>최신글</h1>
+<h4>Tstory</h2>
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=tinylittlelife&theme=default)](https://tinylittlelife.tistory.com/)
 </div><br>
