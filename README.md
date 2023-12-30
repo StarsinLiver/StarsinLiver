@@ -16,10 +16,7 @@
         Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
   
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/
- api?name=bi-sz)](https://github.com/bi-sz/velog-readme-stats)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/
-api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/ api?name=bi-sz)](https://github.com/bi-sz/velog-readme-stats)[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://tinylittlelife.tistory.com/)
 </div><br>
 ###
 [![StarsinLiver's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StarsinLiver&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/StarsinLiver)
