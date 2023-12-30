@@ -1,5 +1,5 @@
 <h1>$\rm{welcome\ to \ my \ github}$</h1>
-<p>$\rm{설명 \ 할게 \ 없다..}$</p>
+<p>$\rm{very \ very \ tired \ ha..}$</p>
 <br/>
 
 ## 💻 DEV's blog 💻
