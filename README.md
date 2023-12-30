@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Stars+in+Liver's+GitHub!👋)](https://git.io/typing-svg)
 
 ###
-![StarsinLiver's github stats](https://github-readme-stats.vercel.app/api?username=StarsinLiver&show_icons=true)
+[![Stars in Liver's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarsinLiver&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/StarsinLiver/github-readme-stats)
 ###
 [![StarsinLiver's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StarsinLiver&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/StarsinLiver)
 ###
