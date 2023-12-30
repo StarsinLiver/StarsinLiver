@@ -1,9 +1,9 @@
 <h1>$\rm{welcome\ to \ my \ github}$</h1>
 <p>$\rm{설명 \ 할게 \ 없다..}$</p>
-
+<br/>
 
 ## 💻 DEV's blog 💻
-<div style="display:flex; flex-direction:row; margin-top: 100;">
+<div style="display:flex; flex-direction:row;">
 <h4>Tstory</h2>
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=tinylittlelife&theme=default)](https://tinylittlelife.tistory.com/)
