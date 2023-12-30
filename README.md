@@ -1,5 +1,4 @@
-### 
-welcome to my Github 
+## welcome to my Github 
 
 ## 💻 DEV's blog 💻
 <div style="display:flex; flex-direction:row;">
