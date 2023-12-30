@@ -12,6 +12,22 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=tinylittlelife&theme=default)](https://tinylittlelife.tistory.com/)
 </div><br>
 
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:kwonbe99@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://open.kakao.com/o/sGFzzbsf">
+        <img src="https://img.shields.io/badge/
+        KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    </a>
+    <a href="https://www.instagram.com/kwonbi_">
+        <img src="https://img.shields.io/badge/
+        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+</div>
+
 ###
 [![StarsinLiver's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StarsinLiver&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/StarsinLiver)
 ###
