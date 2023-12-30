@@ -12,7 +12,9 @@
     </a>
     
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=StarsinLiver&theme=default)](https://tinylittlelife.tistory.com/)
+
 </div><br>
+
 ###
 [![StarsinLiver's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StarsinLiver&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/StarsinLiver)
 ###
