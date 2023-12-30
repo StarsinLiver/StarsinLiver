@@ -10,7 +10,9 @@
     <a href="https://tinylittlelife.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    
+
+<h4>최신글</h1>
+
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=tinylittlelife&theme=default)](https://tinylittlelife.tistory.com/)
 </div><br>
 
