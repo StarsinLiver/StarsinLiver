@@ -60,6 +60,8 @@
 
 ### 운영체제
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white">
+<img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
   <!--
 **StarsinLiver/StarsinLiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
