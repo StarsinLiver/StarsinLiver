@@ -1,5 +1,5 @@
 <h1>$\rm{welcome\ to \ my \ github}$</h1>
-<p>$\rm{백엔드 \ 개발자를 \ 목표로 \ 달리는 \ 밤하늘 }$</p>
+<p>$\rm{밤하늘}$</p>
 <br/>
 
 ## 💻 DEV's blog 💻
